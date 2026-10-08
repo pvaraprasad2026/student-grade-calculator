@@ -1,5 +1,8 @@
+# Grade Calculation Modulegit add .
 def calculate_grade(percentage):
-    if percentage >= 90:
+    if marks1 < 0 or marks1 > 100:
+         print("Invalid Marks")
+    elif percentage >= 90:
         return "A"
     elif percentage >= 80:
         return "B"
