@@ -18,5 +18,5 @@ Student 3: Documentation
 How to Run
 Open terminal.
 Navigate to project folder.
-Run the command:
+Run:
 python grade_calculator.py
